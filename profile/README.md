@@ -41,15 +41,6 @@ Archive download. Extract → copy prompts into Adobe Firefly. Full guide in rep
 
 ---
 
-<div align="center">
-  <a href="https://adobe-firefly-prompts.github.io/Adobe-Firefly-Prompts/" target="_blank">
-    <img src="https://img.shields.io/badge/Access_Firefly_Prompts-00A2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F"
-         alt="Access Firefly Prompts" width="420" style="border-radius:8px;" />
-  </a>
-</div>
-
----
-
 ## Keywords (SEO)
 
 <span style="font-size: 12px;">
